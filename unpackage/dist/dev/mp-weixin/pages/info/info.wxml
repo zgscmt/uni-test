@@ -1,0 +1,1 @@
+<view class="content"><view class="con-title">{{title}}</view><view class="con-tontent"><rich-text class="richText" nodes="{{strings}}"></rich-text></view></view>

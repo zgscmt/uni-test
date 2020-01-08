@@ -1,0 +1,13 @@
+
+.uni-media-list{
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.uni-media-list-body{
+	width: 96%;
+	padding:10rpx 2%;
+	height: 100rpx;
+}
+
